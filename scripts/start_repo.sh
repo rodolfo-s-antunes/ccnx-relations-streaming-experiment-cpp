@@ -1,0 +1,1 @@
+CCNR_DEBUG=7 CCNR_DIRECTORY=/home/gticn/rsantunes_repo/ nohup /usr/local/bin/ccnr > /home/gticn/rsantunes_repo.log 2>&1 &
